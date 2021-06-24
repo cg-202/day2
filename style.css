@@ -1,0 +1,59 @@
+/* CSS ELEMENT SELECTOR */
+body {
+  margin: 0;
+}
+
+/** CSS ID SELECTOR */
+#id1 {
+  border-left: 16px solid tomato;
+  background: lightgoldenrodyellow;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+/* CSS CLASS SELECTOR */
+.primary {
+  border-left: 16px solid darkgreen;
+  background: lightgreen;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.secondary {
+  border-right: 8px solid black;
+  background: lightgray;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.gold {
+  border-right: 8px solid darkgoldenrod;
+  background: gold;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.deepak {
+  border-right: 8px solid blue;
+  background: royalblue;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
